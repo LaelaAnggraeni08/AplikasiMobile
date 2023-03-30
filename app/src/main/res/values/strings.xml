@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Animal</string>
+    <string name="definition">My Animal merupakan aplikasi tebak hewan untuk ......</string>
+    <string name="nama_hewan">Nama Hewan</string>
+    <string name="jumlah_kaki">Jumlah Kaki</string>
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="unggas">Unggas</string>
+    <string name="mamalia">Mamalia</string>
+    <string name="cari">Cari</string>
+    <string name="benar">Benar!</string>
+    <string name="salah">Salah!</string>
+    <string name="jawaban_x">Jawaban: %1$s</string>
+
 </resources>
